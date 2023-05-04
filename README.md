@@ -5,3 +5,7 @@ health, the user must survive while in the small screen and often items will app
 I will incorporate design patterns into this Project.
 There will be a character selection, level selection, start menu, and a settings page. 
 I am very new to game development, this is my first attempt.
+
+In order to play, you must download the Unity Tool! Please use latest version to open and use project. 
+
+The scripts are where the code is at!!
