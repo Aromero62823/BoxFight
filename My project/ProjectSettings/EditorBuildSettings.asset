@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Fighting_Level.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ec7e81de3516ad341982b7c8c149ddbe
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 690252fd9a91bb94a957ba9a8f2ae600
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 16561a55312ea58419f7b82491087702
   m_configObjects: {}
